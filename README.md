@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Kiet</h1>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bqtankiet&label=Profile%20views&color=0e75b6&style=flat" alt="bqtankiet" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bqtankiet" alt="bqtankiet" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
