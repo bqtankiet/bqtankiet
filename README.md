@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Kiet</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bqtankiet&label=Profile%20views&color=0e75b6&style=flat" alt="bqtankiet" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bqtankiet&label=Profile%20views&color=0e75b6&style=flat" alt="bqtankiet" /> </p> -->
 
 - 🌱 I’m currently learning **Java**
 
