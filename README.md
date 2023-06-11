@@ -19,6 +19,7 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<hr><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bqtankiet&show_icons=true&locale=en&layout=compact" alt="bqtankiet" /></p>
+<hr style="border-width: 1px;"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bqtankiet&show_icons=true&locale=en&layout=compact" alt="bqtankiet" /></p>
 
-<hr><h4 align="center"> 🙏Thanks for visiting!!!🙏 </h4>
+<hr><h4 align="center"> Thank you for visiting my profile. Have a great day!
+ </h4>
