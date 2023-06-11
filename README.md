@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Kiet</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bqtankiet&label=Profile%20views&color=0e75b6&style=flat" alt="bqtankiet" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bqtankiet&label=Profile%20views&color=0e75b6&style=flat" alt="bqtankiet" /> </p> -->
 
 - 🌱 I’m currently learning **Java**
 
@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bqtankiet&show_icons=true&locale=en&layout=compact" alt="bqtankiet" /></p>
 
-<h3 align="center"> Thanks for visiting!!! </h3>
+</hr><h4 align="center"> 🙏Thanks for visiting!!!🙏 </h4>
