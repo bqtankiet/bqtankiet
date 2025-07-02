@@ -4,6 +4,8 @@
   🎓 4th-year student at Nong Lam University  
   <br>
   🚀 Interested in Backend Development, DevOps, and Machine Learning
+  <br>
+  ♟️ Outside of coding, I enjoy spending time playing chess
 </p>
 
 <h3 align="center">🛠 My Skills</h3>
