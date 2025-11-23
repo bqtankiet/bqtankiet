@@ -1,5 +1,5 @@
 <a href="https://octoprofile.vercel.app/user?id=bqtankiet">
-   <img width="2800" height="626" alt="header" src="https://github.com/user-attachments/assets/fea2fec2-ce48-4d2a-b32a-8655f1f1be66" />
+   <img width="2000" alt="header" src="https://github.com/user-attachments/assets/fea2fec2-ce48-4d2a-b32a-8655f1f1be66" />
 </a>
 <h1 align="center">Hi 👋, I'm Tan Kiet</h1>
 
