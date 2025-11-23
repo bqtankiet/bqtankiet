@@ -1,7 +1,23 @@
-<p align="center">
+<p align="center">   
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVnb3BmOWltYzg5bTZsZHgwZnlqeHloNHI4a3cycjExaDZjN2xwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/7rxiG10cFGO1MdhuQQ/giphy.gif"/>
+</p>
+
+<!-- TERMINAL -->
+<!-- <p align="center">
    <img src="https://github.com/bqtankiet/bqtankiet/blob/main/images/terminal.gif"/>
 </p>
-<!-- <h1 align="center">Hi 👋, I'm Tan Kiet</h1> -->
+  -->
+<!-- FROZEN -->
+<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg0dncza3JvMjh0a2Y2a24xc3NiZm01a25paDF1NjRxNGM4YjlyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XevbulndBMckO5r3o8/giphy.gif" width="21%" style="display:inline;">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg0dncza3JvMjh0a2Y2a24xc3NiZm01a25paDF1NjRxNGM4YjlyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XevbulndBMckO5r3o8/giphy.gif" width="21%" style="display:inline;"> 
+
+<!-- FLOWWER FALLINGG -->
+<!--
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+-->
+
+<h1 align="center">Hi 👋, I'm Tan Kiet</h1>
 <h3 align="center">About Me</h3>
 <p align="center">
    <samp>
@@ -38,6 +54,10 @@
 </a>
 </p>
 
+<h3 align="center">🛠 Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,tensorflow,nodejs,docker,git,linux,jenkins" alt="My Skills">
+</p>
 
 ---
 
@@ -76,10 +96,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bqtankiet&hide_border=true&hide_title=true" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,tensorflow,nodejs,docker,git,linux,jenkins" alt="My Skills">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bqtankiet&theme=github-compact"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visitting!!!;Have%20a%20great%20day!!!&font=Roboto%20Code&center=true&width=380&height=50&duration=3000&pause=500%22">
