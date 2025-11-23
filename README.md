@@ -1,5 +1,3 @@
-<img width="1600" height="626" alt="header_bqtankiet" src="https://github.com/user-attachments/assets/2db380b7-65ba-450f-b395-f165d346cba2" />
-
 <h1 align="center">Hi 👋, I'm Tan Kiet</h1>
 
 <h3 align="center">About Me</h3>
