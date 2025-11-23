@@ -44,7 +44,9 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&theme=transparent&hide_border=true" />
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bqtankiet&theme=light&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
