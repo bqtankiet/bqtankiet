@@ -97,7 +97,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bqtankiet&theme=github-compact"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visitting!!!;Have%20a%20great%20day!!!&font=Roboto%20Code&center=true&width=380&height=50&duration=3000&pause=500%22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visiting!!!;Have%20a%20great%20day!!!&font=Roboto%20Code&center=true&width=380&height=50&duration=3000&pause=500%22">
 </p>
 
 <p align="center">
