@@ -64,13 +64,13 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&theme=transparent&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&hide_border=true&hide_title=true" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bqtankiet&theme=light&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bqtankiet&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <h3 align="center">🛠 My Skills</h3>
