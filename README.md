@@ -41,25 +41,24 @@
 
 ---
 
-<h3 align="center">🎯 Featured Projects</h3>
+<h3 align="center">⭐ Featured Projects</h3>
 <p align="center">
   <a href="https://github.com/bqtankiet/PaMi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=PaMi&border_color=DEE2E6&bg_color=F8F9FA&title_color=495057&text_color=6C757D&icon_color=495057" alt="PaMi Food Delivery" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=PaMi" alt="PaMi Food Delivery" />
   </a>
   <a href="https://github.com/bqtankiet/Crocodile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=Crocodile&border_color=DEE2E6&bg_color=F8F9FA&title_color=495057&text_color=6C757D&icon_color=495057" alt="Crocodile Web App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=Crocodile" alt="Crocodile Web App" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bqtankiet/keyframe_retrieval_msvd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=keyframe_retrieval_msvd&border_color=DEE2E6&bg_color=F8F9FA&title_color=495057&text_color=6C757D&icon_color=495057" alt="Keyframe Retrieval" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=keyframe_retrieval_msvd" alt="Keyframe Retrieval" />
   </a>
   <a href="https://github.com/bqtankiet/langchain-llm-course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=langchain-llm-course&border_color=DEE2E6&bg_color=F8F9FA&title_color=495057&text_color=6C757D&icon_color=495057" alt="LangChain LLM Apps" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bqtankiet&repo=langchain-llm-course" alt="LangChain LLM Apps" />
   </a>
 </p>
-
 
 
 ---
@@ -80,4 +79,8 @@
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,tensorflow,nodejs,docker,git,linux,jenkins" alt="My Skills">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visitting!!!;Have%20a%20great%20day!!!&font=Roboto%20Code&center=true&width=380&height=50&duration=3000&pause=500%22">
 </p>
