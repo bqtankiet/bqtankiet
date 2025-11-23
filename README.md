@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tan Kiet</h1>
-
+<p align="center">
+   <img src="https://github.com/bqtankiet/bqtankiet/blob/main/images/terminal.gif"/>
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Tan Kiet</h1> -->
 <h3 align="center">About Me</h3>
 <p align="center">
    <samp>
@@ -11,13 +13,16 @@
    </samp>
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://github.com/bqtankiet/bqtankiet/blob/main/images/looking-job.gif" alt="looking-job" width="40" />
   <a href="https://github.com/bqtankiet/">
     <img src="https://img.shields.io/badge/I'm%20looking%20for%20freelance%20jobs.%20Feel%20free%20to%20contact%20me%20%F0%9F%98%8A-blue?style=for-the-badge&logoColor=white" alt="" />
   </a>
   <img src="https://github.com/bqtankiet/bqtankiet/blob/main/images/looking-job.gif" alt="looking-job" width="40" />
-</p>  
+</p>   
+-->
+<h3 align="center">Contact Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/bqtankiet/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
