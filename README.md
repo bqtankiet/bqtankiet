@@ -1,3 +1,4 @@
+<img width="1600" height="626" alt="header" src="https://github.com/user-attachments/assets/df15aa9c-2422-40b3-a74f-5b8358e2c9fa" />
 
 <h1 align="center">Hi 👋, I'm Tan Kiet</h1>
 
