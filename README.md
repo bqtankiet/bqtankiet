@@ -68,16 +68,16 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&hide_border=true&langs_count=6&hide=html,css" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bqtankiet&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bqtankiet&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="center">🛠 My Skills</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,tensorflow,nodejs,docker,git,linux,jenkins" alt="My Skills">
 </p>
