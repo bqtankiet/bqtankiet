@@ -17,6 +17,57 @@
 
 ---
 
+<h3 align="center">🎯 Featured Projects</h3>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🥪 PaMi Food Delivery</h3>
+      <p>Full-stack food delivery app with Android frontend and Spring Boot backend</p>
+      <img src="https://skillicons.dev/icons?i=java,spring,android" alt="tech stack" height="20"/>
+      <br>
+      <a href="https://github.com/bqtankiet/PaMi"><strong>View Project »</strong></a>
+    </td>
+    <td width="50%">
+      <h3>🐊 Crocodile Web App</h3>
+      <p>JSP/Servlet web application with Docker deployment</p>
+      <img src="https://skillicons.dev/icons?i=java,docker" alt="tech stack" height="20"/>
+      <br>
+      <a href="https://github.com/bqtankiet/Crocodile"><strong>View Project »</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎬 Keyframe Retrieval</h3>
+      <p>Video keyframe extraction and search system using ML</p>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="tech stack" height="20"/>
+      <br>
+      <a href="https://github.com/bqtankiet/keyframe_retrieval_msvd"><strong>View Project »</strong></a>
+    </td>
+    <td width="50%">
+      <h3>🤖 LangChain LLM Apps</h3>
+      <p>LLM application development with LangChain framework</p>
+      <img src="https://skillicons.dev/icons?i=python" alt="tech stack" height="20"/>
+      <br>
+      <a href="https://github.com/bqtankiet/langchain-llm-course"><strong>View Project »</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&theme=transparent&hide_border=true&hide_title=true" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bqtankiet&theme=light&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
 <h3 align="center">🛠 My Skills</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,tensorflow,nodejs,docker,git,linux,jenkins" alt="My Skills">
@@ -34,23 +85,4 @@
     <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
   </a>
 </p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&theme=transparent&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bqtankiet&theme=light&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-
 
