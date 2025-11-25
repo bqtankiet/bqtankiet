@@ -40,6 +40,11 @@
 
 <h3 align="center">Contact Me</h3>
 <p align="center">
+  <a href="https://bqtankiet.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-bqtankiet.github.io-58A6FF?style=for-the-badge" alt="My Portfolio" />
+  </a>
+</p>   
+<p align="center">
   <a href="https://www.linkedin.com/in/bqtankiet/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
