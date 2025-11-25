@@ -84,17 +84,17 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <!-- GitHub Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&hide_border=true&langs_count=6&hide=html,css&hide_title=true" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&hide_border=true&hide_title=true" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&hide_border=true&langs_count=6&hide=html,css&hide_title=true" /> -->
+<!-- </p> -->
 
 <!-- Streak Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bqtankiet&hide_border=true&hide_title=true" alt="GitHub Streak Stats" />
-</p>
+</p> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bqtankiet&theme=github-compact"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bqtankiet&theme=github-compact"/> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visiting!!!;Have%20a%20great%20day!!!&font=Roboto%20Code&center=true&width=380&height=50&duration=3000&pause=500%22">
