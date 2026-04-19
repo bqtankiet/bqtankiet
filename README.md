@@ -1,79 +1,67 @@
-<h1 align="center">Hi 👋, I'm Tan Kiet</h1>
-<h3 align="center">About Me</h3>
-<p align="center">
-   <samp>
-  🎓 4th-year student at Nong Lam University  
-  <br>
-  🚀 Interested in Backend Development, DevOps, and Machine Learning
-  <br>
-  ♟️ Outside of coding, I enjoy spending time playing chess
-   </samp>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Tan+Kiet+%F0%9F%91%8B;AI+Agent+Developer+%7C+LLM+Engineer;Backend+Engineer+%7C+LangChain+Builder&font=JetBrains+Mono&center=true&width=600&height=60&duration=3000&pause=1000&color=58A6FF">
+</h1>
 
-<!-- 
 <p align="center">
-  <img src="https://github.com/bqtankiet/bqtankiet/blob/main/images/looking-job.gif" alt="looking-job" width="40" />
-  <a href="https://github.com/bqtankiet/">
-    <img src="https://img.shields.io/badge/I'm%20looking%20for%20freelance%20jobs.%20Feel%20free%20to%20contact%20me%20%F0%9F%98%8A-blue?style=for-the-badge&logoColor=white" alt="" />
-  </a>
-  <img src="https://github.com/bqtankiet/bqtankiet/blob/main/images/looking-job.gif" alt="looking-job" width="40" />
-</p>   
--->
-
-<h3 align="center">Contact Me</h3>
-<p align="center">
-  <a href="https://bqtankiet.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-bqtankiet.github.io-58A6FF?style=for-the-badge" alt="My Portfolio" />
-  </a>
-</p>   
-<p align="center">
-  <a href="https://www.linkedin.com/in/bqtankiet/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Kiet-Bui-Quang-Tan">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
-  </a>
-  <a href="https://huggingface.co/bqtankiet">
-    <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
-  </a>
-  <a href="mailto:bqtankiet.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,tensorflow,nodejs,docker,git,linux,jenkins" alt="My Skills">
+  <b>🤖 Building AI Agents • 🧠 LLM Applications • ⚙️ Backend Systems</b>
 </p>
 
 ---
 
-<!-- <h3 align="center">📊 GitHub Stats</h3> -->
+## 🧠 About Me
 
-<!-- GitHub Stats Cards -->
-<!-- <p align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bqtankiet&show_icons=true&hide_border=true&hide_title=true" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bqtankiet&layout=compact&hide_border=true&langs_count=6&hide=html,css&hide_title=true" /> -->
-<!-- </p> -->
+🎓 4th-year student at Nong Lam University (Vietnam)  
+🤖 Focused on **AI Agents & LLM-powered applications**  
+🧩 Building systems with **LangChain ecosystem (LangChain, LangGraph, LangSmith)**  
+⚙️ Interested in backend architecture for AI products (RAG, tool-use, workflows)  
 
-<!-- Streak Stats -->
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bqtankiet&hide_border=true&hide_title=true" alt="GitHub Streak Stats" />
-</p> -->
+---
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bqtankiet&theme=github-compact"/> -->
+## 🚀 What I'm Focused On
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visiting!!!;Have%20a%20great%20day!!!&font=Roboto%20Code&center=true&width=380&height=50&duration=3000&pause=500%22">
+- Agentic AI systems
+- LLM applications (RAG, chat systems, assistants)
+- Backend systems for AI products
+- Observability & evaluation for LLM workflows
+
+---
+
+## 🛠 Tech Stack
+
+### 🤖 AI / LLM Engineering
+<p>
+   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=gray"/>
+   <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
 </p>
 
-<p align="center">
-   <img width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW56OWQ5Y3VmdGZxanhodGhhOXY0NDh5ZWp6Y3FsazVpYmVqZm00NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SVeiYWX54mhi9YyjWB/giphy.gif"/>
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,jenkins" />
 </p>
 
-   
-<p align="right" style="display:inline;">
-   Back to Top
-  <a href="#">
-    <img width="50" style="display:inline;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2R2bnhkNXU2cXAyMW9tazR1ZnJldWJzcXp0YjFxOWJvazIwazBociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JMYHFLvr9ciaP6bcCF/giphy.gif"/>
+---
+
+## 🌐 Contact
+
+<p align="center">
+  <a href="https://bqtankiet.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/bqtankiet/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+  </a>
+  <a href="mailto:bqtankiet.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>"Building intelligent systems with LLMs & Agents"</b> 🚀
 </p>
